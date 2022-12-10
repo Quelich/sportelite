@@ -1,5 +1,5 @@
 # sportelite
-Overview of YupBuddy fitness app
+Overview of SportElite fitness app
 
 
 ## Contact
