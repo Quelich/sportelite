@@ -1,4 +1,4 @@
-# yupbuddy
+# sportelite
 Overview of YupBuddy fitness app
 
 
