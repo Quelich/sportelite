@@ -8,4 +8,4 @@ Overview of SportElite fitness app.
 - Instant Messaging
 
 ## Contact
-If you want to see the software of this application please contact this email [emre1kilic@outlook.com]()
+If you want to reach out to the source code of this application please contact this email [emre1kilic@outlook.com]()
