@@ -1,11 +1,4 @@
-# sportelite
-Overview of SportElite fitness app.
+# README #
 
+This README would normally document whatever steps are necessary to get your application up and running.
 
-## Features
-
-- Dashboard
-- Instant Messaging
-
-## Contact
-If you want to reach out to the source code of this application please contact this email [emre1kilic@outlook.com]()
