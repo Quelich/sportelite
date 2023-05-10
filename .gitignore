@@ -114,6 +114,10 @@ ios/Runner/GeneratedPluginRegistrant.*
 !default.pbxuser
 !default.perspectivev3
 
+# Firebase
+*.json
+
+
 # Android
 gradle-wrapper.jar
 android/.gradle
